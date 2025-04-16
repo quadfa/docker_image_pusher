@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-backplane/open-webui:0.6.5-ollama
+ghcr.io/open-webui/open-webui:v0.6.4-ollama
+ghcr.io/open-webui/open-webui:v0.6.5-ollama
