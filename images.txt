@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #ghcr.io/open-webui/open-webui:v0.6.4-ollama
 #ghcr.io/open-webui/open-webui:v0.6.5-ollama
-ghcr.io/open-webui/open-webui:v0.6.9-ollama
+ghcr.io/open-webui/open-webui:v0.6.10-ollama
 ghcr.io/open-webui/open-webui:cuda
 vllm/vllm-openai:v0.8.5
 lmsysorg/sglang:v0.4.6.post4-cu124
