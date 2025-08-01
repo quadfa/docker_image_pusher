@@ -4,12 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#ghcr.io/open-webui/open-webui:v0.6.4-ollama
-#ghcr.io/open-webui/open-webui:v0.6.5-ollama
-ghcr.io/open-webui/open-webui:v0.6.15-ollama
-ghcr.io/open-webui/open-webui:v0.6.15-cuda
+ghcr.io/open-webui/open-webui:v0.6.18-ollama
+ghcr.io/open-webui/open-webui:v0.6.18-cuda
 ghcr.io/open-webui/open-webui:ollama
 ghcr.io/open-webui/open-webui:cuda
-vllm/vllm-openai:v0.9.2
-lmsysorg/sglang:v0.4.8.post1-cu126
-lmsysorg/sglang:v0.4.9-cu126
