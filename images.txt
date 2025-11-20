@@ -5,6 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-ghcr.io/open-webui/open-webui:v0.6.36-cuda
-ghcr.io/open-webui/open-webui:cuda
+vllm/vllm-openai:v0.11.1
+vllm/vllm-openai:v0.11.0
 
