@@ -5,6 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-vllm/vllm-openai:v0.11.1
-vllm/vllm-openai:v0.11.0
+xprobe/xinference:latest
+xprobe/xinference:v1.13.0-cu128
+xprobe/xinference:v1.13.0
 
