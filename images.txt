@@ -5,7 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-xprobe/xinference:latest
-xprobe/xinference:v1.13.0-cu128
-xprobe/xinference:v1.13.0
-
+ghcr.io/open-webui/open-webui:main
+ghcr.io/open-webui/open-webui:cuda
+ghcr.io/open-webui/open-webui:ollama
