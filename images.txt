@@ -8,3 +8,4 @@
 ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:cuda
 ghcr.io/open-webui/open-webui:ollama
+vllm/vllm-openai:v0.13.0
