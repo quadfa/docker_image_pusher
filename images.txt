@@ -5,14 +5,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-vllm/vllm-openai:v0.18.1-cu130
-vllm/vllm-openai:v0.18.1
-vllm/vllm-openai:v0.18.0
-vllm/vllm-openai:v0.19.0
-vllm/vllm-openai:v0.19.0-cu130
+vllm/vllm-openai:v0.22.1
+vllm/vllm-openai:v0.22.0
 
 ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:cuda
 ghcr.io/open-webui/open-webui:ollama
-
-vllm/vllm-openai:v0.16.0
